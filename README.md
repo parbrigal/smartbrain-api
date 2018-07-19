@@ -1,2 +1,3 @@
 # smartbrain-api
-# back-end forcourse project
+# back-end for course project
+
